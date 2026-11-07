@@ -1,0 +1,12 @@
+{
+  "name": "Moersleutel",
+  "slug": "moersleutel",
+  "website": "https://moersleutel.com/",
+  "city": "Alkmaar",
+  "province": "Noord-Holland",
+  "beers": "410",
+  "kvk": "88778118",
+  "kvk_status": "Active",
+  "notes": "homepage.html saved; dutch_beer_detail.html saved; KVK 88778118 confirmed",
+  "folder": "data/breweries/moersleutel"
+}
