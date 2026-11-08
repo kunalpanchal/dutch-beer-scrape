@@ -1,0 +1,13 @@
+{
+  "name": "Poesiat & Kater",
+  "slug": "poesiat-kater",
+  "city": "Weesp",
+  "province": "Noord-Holland",
+  "website": "https://poesiatenkater.nl",
+  "kvk": "",
+  "kvk_status": "Unknown",
+  "beers_count": 29,
+  "notes": "Weesp.",
+  "scraped_at": "2026-11-08T03:16:39.943929",
+  "folder": "data/breweries/poesiat-kater"
+}

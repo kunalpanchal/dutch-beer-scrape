@@ -1,0 +1,13 @@
+{
+  "name": "Brouwerij Homeland",
+  "slug": "brouwerij-homeland",
+  "city": "Amsterdam",
+  "province": "Noord-Holland",
+  "website": "https://brouwerijhomeland.nl",
+  "kvk": "",
+  "kvk_status": "Unknown",
+  "beers_count": 34,
+  "notes": "Amsterdam brewery.",
+  "scraped_at": "2026-11-08T03:16:39.943453",
+  "folder": "data/breweries/brouwerij-homeland"
+}

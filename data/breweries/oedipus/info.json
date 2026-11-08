@@ -1,0 +1,13 @@
+{
+  "name": "Oedipus",
+  "slug": "oedipus",
+  "city": "Amsterdam",
+  "province": "Noord-Holland",
+  "website": "https://oedipus.com",
+  "kvk": "62369512",
+  "kvk_status": "Active (Heineken owned)",
+  "beers_count": 38,
+  "notes": "KVK 62369512. Amsterdam Noord. Fully Heineken. Homepage saved.",
+  "scraped_at": "2026-11-08T03:16:39.943319",
+  "folder": "data/breweries/oedipus"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gulpener Bierbrouwerij",
+  "slug": "gulpener-bierbrouwerij",
+  "city": "Gulpen",
+  "province": "Limburg",
+  "website": "https://www.gulpener.nl",
+  "kvk": "",
+  "kvk_status": "Active (acquired by Grolsch 2026)",
+  "beers_count": 71,
+  "notes": "Historic 1825. Homepage saved. Family to Asahi/Grolsch.",
+  "scraped_at": "2026-11-08T03:16:39.942393",
+  "folder": "data/breweries/gulpener-bierbrouwerij"
+}

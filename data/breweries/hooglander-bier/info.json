@@ -1,0 +1,13 @@
+{
+  "name": "Hooglander Bier",
+  "slug": "hooglander-bier",
+  "city": "Aarle-Rixtel",
+  "province": "Noord-Brabant",
+  "website": "https://hooglanderbier.nl",
+  "kvk": "",
+  "kvk_status": "Unknown",
+  "beers_count": 28,
+  "notes": "Brabant.",
+  "scraped_at": "2026-11-08T03:16:39.944117",
+  "folder": "data/breweries/hooglander-bier"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Big Belly Brewing",
+  "slug": "big-belly-brewing",
+  "city": "Breda",
+  "province": "Noord-Brabant",
+  "website": "https://bigbellybrewing.nl",
+  "kvk": "",
+  "kvk_status": "Unknown",
+  "beers_count": 40,
+  "notes": "Breda craft.",
+  "scraped_at": "2026-11-08T03:16:39.943183",
+  "folder": "data/breweries/big-belly-brewing"
+}

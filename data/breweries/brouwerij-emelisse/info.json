@@ -1,0 +1,13 @@
+{
+  "name": "Brouwerij Emelisse",
+  "slug": "brouwerij-emelisse",
+  "city": "Goes",
+  "province": "Zeeland",
+  "website": "https://emelisse.nl",
+  "kvk": "",
+  "kvk_status": "Unknown",
+  "beers_count": 54,
+  "notes": "Now at Slot Oostende Goes. Homepage small/redirect.",
+  "scraped_at": "2026-11-08T03:16:39.942550",
+  "folder": "data/breweries/brouwerij-emelisse"
+}

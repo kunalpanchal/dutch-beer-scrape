@@ -1,0 +1,13 @@
+{
+  "name": "ROTT. Brouwers",
+  "slug": "rott-brouwers",
+  "city": "Rotterdam",
+  "province": "Zuid-Holland",
+  "website": "https://rottbrouwers.nl",
+  "kvk": "",
+  "kvk_status": "Unknown",
+  "beers_count": 30,
+  "notes": "Rotterdam.",
+  "scraped_at": "2026-11-08T03:16:39.943785",
+  "folder": "data/breweries/rott-brouwers"
+}

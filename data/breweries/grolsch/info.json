@@ -1,0 +1,13 @@
+{
+  "name": "Grolsch",
+  "slug": "grolsch",
+  "city": "Enschede",
+  "province": "Overijssel",
+  "website": "https://www.grolsch.com",
+  "kvk": "06023267",
+  "kvk_status": "Active (Asahi)",
+  "beers_count": 41,
+  "notes": "Koninklijke Grolsch N.V. Historic. Homepage partial.",
+  "scraped_at": "2026-11-08T03:16:39.943017",
+  "folder": "data/breweries/grolsch"
+}

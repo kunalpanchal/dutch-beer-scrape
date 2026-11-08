@@ -1,0 +1,13 @@
+{
+  "name": "Royal Swinkels",
+  "slug": "royal-swinkels",
+  "city": "Lieshout",
+  "province": "Noord-Brabant",
+  "website": "https://royalswinkels.com",
+  "kvk": "",
+  "kvk_status": "Active",
+  "beers_count": 49,
+  "notes": "Parent of Bavaria, La Trappe etc. Group site.",
+  "scraped_at": "2026-11-08T03:16:39.942822",
+  "folder": "data/breweries/royal-swinkels"
+}
