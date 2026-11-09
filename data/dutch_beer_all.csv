@@ -1,3 +1,5 @@
 name,slug,city,province,website,kvk,kvk_status,detail_url,folder,notes,beers_count
 Brouwerij De Molen,brouwerij-de-molen,Bodegraven,Zuid-Holland,https://www.brouwerijdemolen.nl,28086569,Active (closure planned 2025),https://www.dutch.beer/en/directory/breweries/brouwerij-de-molen,data/breweries/brouwerij-de-molen,HTML homepage+about saved. Major craft brewery with Borefts.,370
-...[truncated for tool, full locally]
+X-brewing,x-brewing,Katwijk,Zuid-Holland,https://www.x-brewing.com/,72298138,Active (Eenmanszaak),https://www.dutch.beer/en/directory/breweries/x-brewing,data/breweries/x-brewing,HTML homepage+detail saved. KVK from SENB/bedrijvenregister.,19
+Gooische Bierbrouwerij,gooische-bierbrouwerij,Hilversum,Noord-Holland,https://shop.gooischebierbrouwerij.nl/,62696068,Active (BV),https://www.dutch.beer/en/directory/breweries/gooische-bierbrouwerij,data/breweries/gooische-bierbrouwerij,HTML homepage+detail saved. KVK from bedrijvenregister/SENB.,18
+Stadshaven Brouwerij,stadshaven-brouwerij,Rotterdam,Zuid-Holland,https://stadshavenbrouwerij.nl/,74271261,Active (BV),https://www.dutch.beer/en/directory/breweries/stadshaven-brouwerij,data/breweries/stadshaven-brouwerij,HTML homepage+detail+contact info saved. KVK from site/Compadex.,18
