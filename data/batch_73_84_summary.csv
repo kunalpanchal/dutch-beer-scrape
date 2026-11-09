@@ -1,0 +1,13 @@
+index,name,slug,city,province,beers,website,folder,status
+73,Heineken,heineken,Zoeterwoude,Zuid-Holland,11,https://www.theheinekencompany.com/,heineken,scraped
+74,Wispe Brouwerij,wispe-brouwerij,Weesp,Noord-Holland,11,https://www.wispe.nl/,wispe-brouwerij,scraped
+75,Brouwerij Martinus,brouwerij-martinus,Groningen,Groningen,10,http://www.brouwerijmartinus.nl/,brouwerij-martinus,scraped
+76,Brouwerij Mommeriete,brouwerij-mommeriete,Gramsbergen,Overijssel,10,http://www.mommeriete.nl/,brouwerij-mommeriete,scraped
+77,Brouwerij Boschdal,brouwerij-boschdal,Prinsenbeek,Noord-Brabant,9,https://brouwerijboschdal.nl/,brouwerij-boschdal,scraped
+78,Brouwerij Leeghwater,brouwerij-leeghwater,De Rijp,Noord-Holland,9,https://brouwerijleeghwater.nl/,brouwerij-leeghwater,scraped
+79,Alfa Brouwerij,alfa-brouwerij,Beekdaelen,Limburg,8,http://www.alfa-bier.nl/,alfa-brouwerij,scraped
+80,Brouwerij De 12 Stuyvers,brouwerij-de-12-stuyvers,Hazerswoude-Dorp,Zuid-Holland,6,https://www.de12stuyvers.nl/,brouwerij-de-12-stuyvers,scraped
+81,Brouwerij Stijl,brouwerij-stijl,Almere,Flevoland,6,https://www.brouwerijstijl.nl/,brouwerij-stijl,scraped
+82,Jake's Beer,jake-s-beer,'s-Hertogenbosch,Noord-Brabant,6,https://www.jakesbeer.com/,jake-s-beer,scraped
+83,Bonifatius754,bonifatius754,Dokkum,Friesland,5,http://www.bonifatius754.nl/,bonifatius754,scraped
+84,Brouwerij Grensgeval,brouwerij-grensgeval,Luyksgestel,Noord-Brabant,5,https://www.brouwerijgrensgeval.nl/,brouwerij-grensgeval,scraped
