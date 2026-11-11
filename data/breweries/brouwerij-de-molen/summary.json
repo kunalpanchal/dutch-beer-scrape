@@ -1,0 +1,11 @@
+{
+  "name": "Brouwerij De Molen",
+  "city": "Bodegraven",
+  "province": "Zuid-Holland",
+  "beers": 370,
+  "website": "https://brouwerijdemolen.nl",
+  "kvk": "28086569",
+  "status": "Closed (production ended 1 Oct 2025; brand under Royal Swinkels)",
+  "address": "Doortocht 4, 2411 DS Bodegraven",
+  "notes": "Founded 2004 by Menno Olivier. Closed by owner Royal Swinkels due to market overcapacity. Brouwcafé remains. HTML scraped: homepage.html, about-closure.html"
+}

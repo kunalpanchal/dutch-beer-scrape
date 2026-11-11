@@ -1,0 +1,11 @@
+{
+  "name": "Kompaan",
+  "city": "Den Haag",
+  "province": "Zuid-Holland",
+  "beers": 188,
+  "website": "https://kompaanbier.nl",
+  "kvk": "78198208",
+  "status": "Active",
+  "address": "Saturnusstraat 55, 2516 AE Den Haag",
+  "notes": "Founded ~2012 by Jeroen van Ditmarsch & Jasper Langbroek. Own brewery & bars in Binckhorst and Binnenhaven. Site blocked (403) for direct scrape; data from public sources."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Jopen",
+  "city": "Haarlem",
+  "province": "Noord-Holland",
+  "beers": 118,
+  "website": "https://www.jopenbier.nl",
+  "kvk": "59097450",
+  "status": "Active",
+  "address": "Gedempte Voldersgracht 2, 2011 WD Haarlem (Jopenkerk)",
+  "notes": "Founded 1992/1994 via Stichting Haarlems Biergenootschap. Own brewery in former church since 2010. HTML: homepage.html, about.html"
+}
