@@ -1,4 +1,13 @@
-name,slug,city,province,website,kvk,kvk_status,detail_url,folder,notes,beers_count
-Gallivant Brewery,gallivant-brewery,Enschede,Overijssel,https://www.gallivant.nl,70665559,Active (VOF),https://www.dutch.beer/en/directory/breweries/gallivant-brewery,data/breweries/gallivant-brewery,Homepage HTML saved. Craft brewery in Twente.,1
-LOC Brewery,loc-brewery,Tilburg,Noord-Brabant,https://www.locbrewery.nl,62959417,Active (BV),https://www.dutch.beer/en/directory/breweries/loc-brewery,data/breweries/loc-brewery,Homepage HTML saved. Brewpub in Spoorzone.,1
-Opener Bier,opener-bier,Dongen,Noord-Brabant,https://www.opener.nl,17277630,Active (VOF),https://www.dutch.beer/en/directory/breweries/opener-bier,data/breweries/opener-bier,Homepage HTML saved. Microbrewery with hop field.,1
+name,city,province,beers,website,kvk,status,folder,notes
+Brouwerij De Molen,Bodegraven,Zuid-Holland,370,https://brouwerijdemolen.nl,28086569,Closed 2025,brouwerij-de-molen,"Production ended 1 Oct 2025 under Royal Swinkels. See folder for HTML + summary.json"
+Kompaan,Den Haag,Zuid-Holland,188,https://kompaanbier.nl,78198208,Active,kompaan,"Site 403 blocked; data from public sources. See summary.json"
+Two Chefs Brewing,Amsterdam,Noord-Holland,124,https://twochefsbrewing.com,unknown,Active,two-chefs-brewing,"Homepage HTML scraped"
+Jopen,Haarlem,Noord-Holland,118,https://www.jopenbier.nl,59097450,Active,jopen,"Jopenkerk since 2010. HTML pages + summary"
+Baxbier,Groningen,Groningen,108,https://baxbier.com,64974243,Active (moving),baxbier,"Planning move to EMG building. HTML + summary"
+Rock City Brewing,Amersfoort,Utrecht,93,https://rockcitybrewing.nl,69778353,Active,rock-city-brewing,"Brewery + brewpub. HTML + summary"
+Brouwerij Bliksem,Breda,Noord-Brabant,33,https://brouwerijbliksem.nl,unknown,Active,brouwerij-bliksem,"Homepage HTML scraped"
+Muifelbrouwerij,Oss,Noord-Brabant,32,https://muifelbrouwerij.nl,unknown,Active,muifelbrouwerij,"Homepage HTML scraped"
+Stanislaus Brewskovitch,Enschede,Overijssel,27,https://stanislausbrewskovitch.nl,unknown,Active,stanislaus-brewskovitch,"Homepage HTML scraped"
+Butcher's Tears,Amsterdam,Noord-Holland,26,https://butchers-tears.com,unknown,Active,butchers-tears,"Homepage HTML scraped"
+Brand Bierbrouwerij,Wijlre,Limburg,24,https://brand.nl,unknown,Active,brand-bierbrouwerij,"Age gate; partial HTML"
+Budelse Brouwerij,Budel,Noord-Brabant,24,https://budels.nl,unknown,Active,budelse-brouwerij,"Large homepage HTML scraped"
