@@ -1,13 +1,11 @@
-name,city,province,beers,website,kvk,status,folder,notes
-Brouwerij De Molen,Bodegraven,Zuid-Holland,370,https://brouwerijdemolen.nl,28086569,Closed 2025,brouwerij-de-molen,"Production ended 1 Oct 2025 under Royal Swinkels. See folder for HTML + summary.json"
-Kompaan,Den Haag,Zuid-Holland,188,https://kompaanbier.nl,78198208,Active,kompaan,"Site 403 blocked; data from public sources. See summary.json"
-Two Chefs Brewing,Amsterdam,Noord-Holland,124,https://twochefsbrewing.com,unknown,Active,two-chefs-brewing,"Homepage HTML scraped"
-Jopen,Haarlem,Noord-Holland,118,https://www.jopenbier.nl,59097450,Active,jopen,"Jopenkerk since 2010. HTML pages + summary"
-Baxbier,Groningen,Groningen,108,https://baxbier.com,64974243,Active (moving),baxbier,"Planning move to EMG building. HTML + summary"
-Rock City Brewing,Amersfoort,Utrecht,93,https://rockcitybrewing.nl,69778353,Active,rock-city-brewing,"Brewery + brewpub. HTML + summary"
-Brouwerij Bliksem,Breda,Noord-Brabant,33,https://brouwerijbliksem.nl,unknown,Active,brouwerij-bliksem,"Homepage HTML scraped"
-Muifelbrouwerij,Oss,Noord-Brabant,32,https://muifelbrouwerij.nl,unknown,Active,muifelbrouwerij,"Homepage HTML scraped"
-Stanislaus Brewskovitch,Enschede,Overijssel,27,https://stanislausbrewskovitch.nl,unknown,Active,stanislaus-brewskovitch,"Homepage HTML scraped"
-Butcher's Tears,Amsterdam,Noord-Holland,26,https://butchers-tears.com,unknown,Active,butchers-tears,"Homepage HTML scraped"
-Brand Bierbrouwerij,Wijlre,Limburg,24,https://brand.nl,unknown,Active,brand-bierbrouwerij,"Age gate; partial HTML"
-Budelse Brouwerij,Budel,Noord-Brabant,24,https://budels.nl,unknown,Active,budelse-brouwerij,"Large homepage HTML scraped"
+name,city,province,beers_count,website,kvk,status,folder,notes
+Brouwerij De Molen,Bodegraven,Zuid-Holland,370,https://brouwerijdemolen.nl,28086569,closed 2025 (per Wikipedia),data/breweries/brouwerij-de-molen,Scraped 0 pages; see data/breweries/brouwerij-de-molen
+Kompaan,Den Haag,Zuid-Holland,188,https://kompaanbier.nl,78198208,active,data/breweries/kompaan,Scraped 0 pages; see data/breweries/kompaan
+Two Chefs Brewing,Amsterdam,Noord-Holland,124,https://twochefsbrewing.com,,unknown,data/breweries/two-chefs-brewing,Scraped 4 pages; see data/breweries/two-chefs-brewing
+Jopen,Haarlem,Noord-Holland,118,https://jopenbier.nl,,unknown,data/breweries/jopen,Scraped 5 pages; see data/breweries/jopen
+Baxbier,Groningen,Groningen,108,https://baxbier.com,,unknown,data/breweries/baxbier,Scraped 2 pages; see data/breweries/baxbier
+Rock City Brewing,Amersfoort,Utrecht,93,https://rockcitybrewing.nl,,unknown,data/breweries/rock-city-brewing,Scraped 5 pages; see data/breweries/rock-city-brewing
+Brouwerij Bliksem,Breda,Noord-Brabant,33,https://brouwerijbliksem.nl,,unknown,data/breweries/brouwerij-bliksem,Scraped 3 pages; see data/breweries/brouwerij-bliksem
+Muifelbrouwerij,Oss,Noord-Brabant,32,https://muifelbrouwerij.nl,,unknown,data/breweries/muifelbrouwerij,Scraped 3 pages; see data/breweries/muifelbrouwerij
+Stanislaus Brewskovitch,Enschede,Overijssel,27,https://stanislausbrewskovitch.nl,,unknown,data/breweries/stanislaus-brewskovitch,Scraped 4 pages; see data/breweries/stanislaus-brewskovitch
+Butcher's Tears,Amsterdam,Noord-Holland,26,https://butchers-tears.com,,unknown,data/breweries/butchers-tears,Scraped 3 pages; see data/breweries/butchers-tears
