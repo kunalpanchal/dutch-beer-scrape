@@ -1,0 +1,16 @@
+{
+  "name": "Two Chefs Brewing",
+  "city": "Amsterdam",
+  "province": "Noord-Holland",
+  "beers": 124,
+  "website": "https://twochefsbrewing.com",
+  "kvk": "",
+  "status": "unknown",
+  "pages_fetched": [
+    "/",
+    "/contact",
+    "/shop",
+    "/careers"
+  ],
+  "notes": "Initial scrape from known directory list; dutch.beer site paused"
+}
