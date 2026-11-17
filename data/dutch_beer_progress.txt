@@ -1,3 +1,3 @@
-10
+20
 status: batch_complete
-note: dutch.beer deployment paused; processed first 10 from directory listing via search. Official sites scraped where possible. Pushed summaries and CSV to kunalpanchal/dutch-beer-scrape.
+note: processed indices 11-20; dutch.beer deployment paused; official sites scraped where possible

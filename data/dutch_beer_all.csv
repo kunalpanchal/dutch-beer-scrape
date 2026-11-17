@@ -1,11 +1,21 @@
-name,city,province,beers_count,website,kvk,status,folder,notes
-Brouwerij De Molen,Bodegraven,Zuid-Holland,370,https://brouwerijdemolen.nl,28086569,closed 2025 (per Wikipedia),data/breweries/brouwerij-de-molen,Scraped 0 pages; see data/breweries/brouwerij-de-molen
-Kompaan,Den Haag,Zuid-Holland,188,https://kompaanbier.nl,78198208,active,data/breweries/kompaan,Scraped 0 pages; see data/breweries/kompaan
-Two Chefs Brewing,Amsterdam,Noord-Holland,124,https://twochefsbrewing.com,,unknown,data/breweries/two-chefs-brewing,Scraped 4 pages; see data/breweries/two-chefs-brewing
-Jopen,Haarlem,Noord-Holland,118,https://jopenbier.nl,,unknown,data/breweries/jopen,Scraped 5 pages; see data/breweries/jopen
-Baxbier,Groningen,Groningen,108,https://baxbier.com,,unknown,data/breweries/baxbier,Scraped 2 pages; see data/breweries/baxbier
-Rock City Brewing,Amersfoort,Utrecht,93,https://rockcitybrewing.nl,,unknown,data/breweries/rock-city-brewing,Scraped 5 pages; see data/breweries/rock-city-brewing
-Brouwerij Bliksem,Breda,Noord-Brabant,33,https://brouwerijbliksem.nl,,unknown,data/breweries/brouwerij-bliksem,Scraped 3 pages; see data/breweries/brouwerij-bliksem
-Muifelbrouwerij,Oss,Noord-Brabant,32,https://muifelbrouwerij.nl,,unknown,data/breweries/muifelbrouwerij,Scraped 3 pages; see data/breweries/muifelbrouwerij
-Stanislaus Brewskovitch,Enschede,Overijssel,27,https://stanislausbrewskovitch.nl,,unknown,data/breweries/stanislaus-brewskovitch,Scraped 4 pages; see data/breweries/stanislaus-brewskovitch
-Butcher's Tears,Amsterdam,Noord-Holland,26,https://butchers-tears.com,,unknown,data/breweries/butchers-tears,Scraped 3 pages; see data/breweries/butchers-tears
+index,name,slug,city,province,beers_count,website,kvk_number,kvk_status,dutch_beer_url,folder,notes,scraped_at
+1,Brouwerij De Molen,brouwerij-de-molen,Bodegraven,Zuid-Holland,370,https://www.brouwerijdemolen.nl,28086569,closed 2025 (per Wikipedia),https://www.dutch.beer/en/directory/breweries/brouwerij-de-molen,data/breweries/brouwerij-de-molen/,Homepage scraped; closed Oct 2025; KVK active as BV under Royal Swinkels,2026-11-17
+2,Kompaan,kompaan,Den Haag,Zuid-Holland,188,https://kompaanbier.nl,78198208,active,https://www.dutch.beer/en/directory/breweries/kompaan,data/breweries/kompaan/,Homepage blocked 403; KVK 78198208,2026-11-17
+3,Two Chefs Brewing,two-chefs-brewing,Amsterdam,Noord-Holland,124,https://twochefsbrewing.com,unknown,unknown,https://www.dutch.beer/en/directory/breweries/two-chefs-brewing,data/breweries/two-chefs-brewing/,Homepage scraped,2026-11-17
+4,Jopen,jopen,Haarlem,Noord-Holland,118,https://jopenbier.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/jopen,data/breweries/jopen/,Homepage scraped,2026-11-17
+5,Baxbier,baxbier,Groningen,Groningen,108,https://baxbier.com,unknown,unknown,https://www.dutch.beer/en/directory/breweries/baxbier,data/breweries/baxbier/,Homepage scraped,2026-11-17
+6,Rock City Brewing,rock-city-brewing,Amersfoort,Utrecht,93,https://rockcitybrewing.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/rockcitybrewing,data/breweries/rock-city-brewing/,Homepage scraped,2026-11-17
+7,Brouwerij Bliksem,brouwerij-bliksem,Breda,Noord-Brabant,33,https://brouwerijbliksem.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/brouwerij-bliksem,data/breweries/brouwerij-bliksem/,Homepage scraped,2026-11-17
+8,Muifelbrouwerij,muifelbrouwerij,Oss,Noord-Brabant,32,https://muifelbrouwerij.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/muifelbrouwerij,data/breweries/muifelbrouwerij/,Homepage scraped,2026-11-17
+9,Stanislaus Brewskovitch,stanislaus-brewskovitch,Enschede,Overijssel,27,https://stanislausbrewskovitch.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/stanislaus-brewskovitch,data/breweries/stanislaus-brewskovitch/,Homepage scraped,2026-11-17
+10,Butcher's Tears,butchers-tears,Amsterdam,Noord-Holland,26,https://butchers-tears.com,unknown,unknown,https://www.dutch.beer/en/directory/breweries/butchers-tears,data/breweries/butchers-tears/,Homepage scraped,2026-11-17
+11,Brand Bierbrouwerij,brand-bierbrouwerij,Wijlre,Limburg,24,https://brand.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/brand-bierbrouwerij,data/breweries/brand-bierbrouwerij/,Homepage scraped (small),2026-11-17
+12,Budelse Brouwerij,budelse-brouwerij,Budel,Noord-Brabant,24,https://budels.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/budelse-brouwerij,data/breweries/budelse-brouwerij/,Homepage scraped,2026-11-17
+13,Brouwerij De Koningshoeven,brouwerij-de-koningshoeven,Berkel-Enschot,Noord-Brabant,21,https://koningshoeven.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/brouwerij-de-koningshoeven,data/breweries/brouwerij-de-koningshoeven/,Homepage scraped,2026-11-17
+14,Gebrouwen door Vrouwen,gebrouwen-door-vrouwen,Amsterdam,Noord-Holland,20,https://gebrouwendoorvrouwen.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/gebrouwen-door-vrouwen,data/breweries/gebrouwen-door-vrouwen/,Homepage scraped,2026-11-17
+15,Pontus Brewing,pontus-brewing,Amsterdam,Noord-Holland,19,https://pontusbrewing.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/pontus-brewing,data/breweries/pontus-brewing/,Scrape failed,2026-11-17
+16,Maximus Brouwerij,maximus-brouwerij,Utrecht,Utrecht,17,https://maximusbrouwerij.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/maximus-brouwerij,data/breweries/maximus-brouwerij/,Homepage scraped,2026-11-17
+17,Brouwerij De Eeuwige Jeugd,brouwerij-de-eeuwige-jeugd,Amsterdam,Noord-Holland,16,https://deeeuwigejeugd.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/brouwerij-de-eeuwige-jeugd,data/breweries/brouwerij-de-eeuwige-jeugd/,Homepage scraped,2026-11-17
+18,Folkingebrew,folkingebrew,Groningen,Groningen,15,https://folkingebrew.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/folkingebrew,data/breweries/folkingebrew/,Homepage scraped,2026-11-17
+19,Speciaalbierbrouwerij Duits & Lauret,speciaalbierbrouwerij-duits-lauret,Everdingen,Utrecht,10,https://duitslauret.com,unknown,unknown,https://www.dutch.beer/en/directory/breweries/speciaalbierbrouwerij-duits-lauret,data/breweries/speciaalbierbrouwerij-duits-lauret/,Homepage scraped (small),2026-11-17
+20,Hertog Jan Brouwerij,hertog-jan-brouwerij,Arcen,Limburg,8,https://hertogjan.nl,unknown,unknown,https://www.dutch.beer/en/directory/breweries/hertog-jan-brouwerij,data/breweries/hertog-jan-brouwerij/,Homepage scraped,2026-11-17
