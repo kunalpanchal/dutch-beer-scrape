@@ -1,11 +1,10 @@
 {
-  "name": "100 Watt",
+  "name": "100 Watt Brewery",
   "slug": "100-watt",
   "city": "Eindhoven",
   "province": "Noord-Brabant",
   "website": "https://100watt.nl/",
   "kvk": "59339144",
-  "kvk_status": "Active",
-  "detail_url": "https://www.dutch.beer/en/directory/breweries/100-watt",
-  "beers_count": 97
+  "kvk_status": "active",
+  "notes": "Formerly Stadsbrouwerij Eindhoven. Part of Lighttown Brewers. Café in Eindhoven."
 }
